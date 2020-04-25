@@ -25,26 +25,6 @@ pre.highlight code,
 }
 
 .categories a,
-.tags a {
-  border: 1px solid #e25440;
-  border-radius: 20px;
-  color: #e25440;
-  display: inline-block;
-  font-size: 12px;
-  margin: 5px 0;
-  padding: 5px 10px;
-  text-shadow: none;
-  white-space: nowrap;
-}
-
-.post-meta__tags {
-  font-size: 12px;
-  padding: 0 5px;
-}
-
-.footer__copyright {
-    margin: 0 20px 10px;
-}
 
 .user-image {
   margin-bottom: 1.2em;
